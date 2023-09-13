@@ -1,1 +1,1 @@
-# .github
+# Langley Computer Science Club
